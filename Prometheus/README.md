@@ -1,4 +1,4 @@
-# Installation - Prometheus
+![image00-1](https://github.com/yo-404/Server-monitoring/assets/100558220/455c9a0d-37b4-41dc-b0b3-adb73873ebce)# Installation - Prometheus
 
 ### Why prometheus
 
@@ -22,9 +22,10 @@ Monitoring your Kubernetes cluster is essential for ensuring the health and perf
 - Security and compliance: Monitoring your Kubernetes cluster can help you identify potential security risks and ensure compliance with regulations and policies. By tracking access logs and other security-related metrics, you can quickly detect and respond to potential security threats.
 
 
-### Prometheus Architecture
+## Prometheus Architecture
 
-![image](https://github.com/yo-404/Server-monitoring/assets/100558220/e6f82dc4-94c4-40fc-b608-1713fac3b867)
+
+![image00-1](https://github.com/yo-404/Server-monitoring/assets/100558220/ae602517-6ace-419c-a7b2-bb9eeac5cf64)
 
 
 ### Why Prometheus over other monitoring tools?
