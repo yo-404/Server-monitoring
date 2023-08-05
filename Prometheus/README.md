@@ -24,6 +24,8 @@ Monitoring your Kubernetes cluster is essential for ensuring the health and perf
 
 ### Prometheus Architecture
 
+![image](https://github.com/yo-404/Server-monitoring/assets/100558220/e6f82dc4-94c4-40fc-b608-1713fac3b867)
+
 
 ### Why Prometheus over other monitoring tools?
 
