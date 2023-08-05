@@ -1,4 +1,4 @@
-![image00-1](https://github.com/yo-404/Server-monitoring/assets/100558220/455c9a0d-37b4-41dc-b0b3-adb73873ebce)# Installation - Prometheus
+# Installation - Prometheus
 
 ### Why prometheus
 
