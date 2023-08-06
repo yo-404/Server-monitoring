@@ -22,7 +22,10 @@ Monitoring your Kubernetes cluster is essential for ensuring the health and perf
 - Security and compliance: Monitoring your Kubernetes cluster can help you identify potential security risks and ensure compliance with regulations and policies. By tracking access logs and other security-related metrics, you can quickly detect and respond to potential security threats.
 
 
-### Prometheus Architecture
+## Prometheus Architecture
+
+
+![image00-1](https://github.com/yo-404/Server-monitoring/assets/100558220/ae602517-6ace-419c-a7b2-bb9eeac5cf64)
 
 
 ### Why Prometheus over other monitoring tools?
