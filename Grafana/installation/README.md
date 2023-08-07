@@ -40,7 +40,7 @@ eg- `192.168.42.9:32123`
 the above command will give you the password for grafana where the username will going to be "admin"
 
 
-## default template for grana dashboard
+## default template for grafana dashboard
 
 - Add the data source for prometheus in grafana 
 - In dashboard creation you can import the standard template 3662 or create graphs and table as per you requirements . Graphs can be created using PROMQL queries .
