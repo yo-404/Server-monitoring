@@ -34,3 +34,5 @@ which can be edited by using `kubectl edit svc <service-name>`
 Prometheus Server can be accessed using the IP of the cluster followed by the assigned `NODEPORT IP` 
 
 eg- `192.168.42.9:32123`
+
+

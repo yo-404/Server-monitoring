@@ -32,3 +32,18 @@ Grafana can be accessed using the IP of the cluster followed by the assigned `NO
 Note- ' Make sure to allow inbound traffic to access grafana on cloud service
 
 eg- `192.168.42.9:32123`
+
+# to get the default password for grafana 
+
+`kubectl get secret --namespace default grafana -o jsonpath="{.data.admin-password}" | base64 --decode ; echo`
+
+the above command will give you the password for grafana where the username will going to be "admin"
+
+
+## default template for grana dashboard
+
+- Add the data source for prometheus in grafana 
+- In dashboard creation you can import the standard template 3662 or create graphs and table as per you requirements . Graphs can be created using PROMQL queries .
+
+
+
